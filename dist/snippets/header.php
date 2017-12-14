@@ -22,6 +22,7 @@
 
 	<title>TMMS Inc</title>
 	<meta name="description" content="Complete Global and Domestic Tooling Solutions">
+	<meta name="keywords" content="tools, tools and molding, technical molding, injection mold building, secondary tooling">
 
 	<!-- Favicons -->
 	
